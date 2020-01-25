@@ -1,0 +1,5 @@
+test:
+  main: modeling/models.rnn.test
+  sourcecode:
+    - modeling
+    - guild.yml
