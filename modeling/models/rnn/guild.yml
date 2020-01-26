@@ -1,0 +1,6 @@
+test:
+  main: modeling.models.rnn.test
+  sourcecode:
+    root: ../../..
+    select:
+      - modeling

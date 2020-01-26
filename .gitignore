@@ -5,5 +5,6 @@ data/*
 submissions/*
 !submissions/README.md
 env/
+venv/
 *.pyc
 *.png
